@@ -10020,6 +10020,14 @@ img::-moz-selection {
   border-radius: 100%;
 }
 
+.btn-social:hover{
+  background: var(--danger);
+}
+
+.btn-dark:hover{
+  border-color: var(--danger);
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
